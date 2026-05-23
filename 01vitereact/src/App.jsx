@@ -1,8 +1,11 @@
-
+import Chai from './Chai.jsx'
 function App() {
 
   return (
-    <h1>chai aur react with Vite</h1>
+    <>
+      <Chai />
+      <h1>Welcome to React with Vite with h1</h1>
+    </>
   )
 }
 
